@@ -1,3 +1,1 @@
-# cursoappiumjava
-# cursoappiumjava
-# appiumjava
+# Projeto acadêmico Appium Java
